@@ -15,14 +15,7 @@ Liste de Minéraux Fictif
 * Orichilium - Minerai Vrai Vert Foncé
 
 
-Utilisation des Minéraux
-
-Thorium
-  * Peut être utiliser comme carburant pour un réacteur concue spécialement pour acceuillir sa réaction chimique.
-  * Note : Beacoup plus radioactif que l'uranium 231.
-
-Palladium
-  * Peut être utiliser pour concevoir arme/outils et armure.
+Utilisation des Minéraux ( Génération en % - Durabilité en % - Éfficacité en % )
 
 Lithium
   * Liquide qui peut être utiliser dans les pile et/ou autre produit pour entreposer d'ivers énergie.
@@ -32,14 +25,34 @@ Strontium
   * Peut être utiliser comme carburant auxilliaire et/ou utilitaire pour des machine ou équipement.
   * Peut être utiliser comme carburant de secour en cas d'échec de carburant primaire.
 
-Platine
-  * Peut être utiliser pour concevoir arme/outils et armure.
+     \ Armure - Outils - Arme /
+ * Palladium 4
+      - Minerai Non-Radioactif qui peut être utiliser a la création de divers objet.
+      - Génération : 30%
+      - Durabilité/Éfficacité : 4000/125
+ * Platine 2
+      - Minerai Non-Radioactif qui peut être utiliser a la création de divers objet.
+      - Génération : 60%
+      - Durabilité/Éfficacité : 2000/60
+ * Bismuth 1
+      - Minerai Pauvre qui peut être utiliser a la création de divers objet.
+      - Génération : 80%
+      - Durabilité/Éfficacité : 500/10
+ * Mithril 5
+      - Minerai Non-Radioactif qui peut être utiliser a la création de divers objet.
+      - Génération : 10%
+      - Durabilité/Éfficacité : 6000/175
+ * Orichilium 3
+      - Minerai Non-Radioactif qui peut être utiliser a la création de divers objet.
+      - Génération : 55%
+      - Durabilité/Éfficacité : 3000/30
+      
+     \ Minerai /
+ * Tous sauf Lithium & Strontium
 
-Bismuth
-  * Peut être utiliser pour concevoir arme/outils et armure.
+     \ Lingot /
+ * Tous excepté Lithium & Strontium
 
-Mithril
-  * Pénétration quasie impossible, idéal pour les armures.
-
-Orichilium
-  * Peut être utiliser pour concevoir arme/outils et armure.
+     \ Liquid /
+ * Lithium
+ * Strontium ( États crystaline avant traitement de la glace )
