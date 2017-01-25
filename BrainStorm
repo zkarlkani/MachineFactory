@@ -26,23 +26,23 @@ Strontium
   * Peut être utiliser comme carburant de secour en cas d'échec de carburant primaire.
 
      \ Armure - Outils - Arme /
- * Palladium 4
+ * Palladium
       - Minerai Non-Radioactif qui peut être utiliser a la création de divers objet.
       - Génération : 30%
       - Durabilité/Éfficacité : 4000/125
- * Platine 2
+ * Platine
       - Minerai Non-Radioactif qui peut être utiliser a la création de divers objet.
       - Génération : 60%
       - Durabilité/Éfficacité : 2000/60
- * Bismuth 1
+ * Bismuth
       - Minerai Pauvre qui peut être utiliser a la création de divers objet.
       - Génération : 80%
       - Durabilité/Éfficacité : 500/10
- * Mithril 5
+ * Mithril
       - Minerai Non-Radioactif qui peut être utiliser a la création de divers objet.
       - Génération : 10%
       - Durabilité/Éfficacité : 6000/175
- * Orichilium 3
+ * Orichilium
       - Minerai Non-Radioactif qui peut être utiliser a la création de divers objet.
       - Génération : 55%
       - Durabilité/Éfficacité : 3000/30
@@ -55,4 +55,9 @@ Strontium
 
      \ Liquid /
  * Lithium
+     - Liquid Conducteur qui peut être compresser dans un compartiment pour retenir de l'énergie.
+     - Génération : 50% ( En forme de nappe phréatique )
+     - Durabilité/Éfficacité : Nil/Nil
  * Strontium ( États crystaline avant traitement de la glace )
+     - Liquid Non-Conducteur qui peut être utiliser sous forme traité pour combustion spontané qui produit en cas d'urgence.
+     - Génération : 65% ( En groupe de 6-9 block qui donne de 5-15 de crystaux par block )
